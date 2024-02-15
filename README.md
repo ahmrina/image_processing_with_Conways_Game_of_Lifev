@@ -1,6 +1,6 @@
 # Image Processing With Conway's Game of Life
 
-The purpose of this project is to achieve image manipulation by using OpenCV & Conway's Game of Life algorithm. It demonstrates that using certain problems or algorithms that we can represent or manipulate as matrices can be integrated very well in Image Processing.
+Conway's Game of Life algorithm can help us make images visually appealing. This algorithm is applied to Image Processing using NumPY & OpenCV along with its basic rules. It demonstrates that through this algorithm can be quite useful in Image Filtering and can produce interesting effects as an outcome. 
 
 # Results
 ![euclid_construction](https://github.com/ahmrina/image_processing_with_Conways_Game_of_Lifev/assets/122067889/2c5c0f22-cb3c-4df1-80ba-f18f7c22eabf)
